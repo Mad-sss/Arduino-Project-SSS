@@ -1,15 +1,3 @@
-/*
-  Arduino FS-I6X Demo
-  fsi6x-arduino-uno.ino
-  Read output ports from FS-IA6B receiver module
-  Display values on Serial Monitor
-  
-  Channel functions by Ricardo Paiva - https://gist.github.com/werneckpaiva/
-  
-  DroneBot Workshop 2021
-  https://dronebotworkshop.com
-*/
- 
 // Define Input Connections
 #define CH1 A0
 #define CH2 A1
